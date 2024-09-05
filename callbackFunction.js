@@ -10,4 +10,4 @@ function fetchData(callback) {
     console.log("Processing data...");
   }
   
-  fetchData(processData); // Passing processData as the callback functionj
+  fetchData(processData); // Passing processData as the callback functionjJ
